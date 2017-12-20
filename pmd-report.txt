@@ -1,0 +1,11 @@
+
+src/com/igate/eshop/controller/EshopController.java:67	A method should have only one exit point, and that should be the last statement in the method
+src/com/igate/eshop/controller/EshopController.java:76	A method should have only one exit point, and that should be the last statement in the method
+src/com/igate/eshop/controller/EshopController.java:123	A method should have only one exit point, and that should be the last statement in the method
+src/com/igate/eshop/controller/EshopController.java:127	A method should have only one exit point, and that should be the last statement in the method
+src/com/igate/eshop/controller/EshopController.java:134	A method should have only one exit point, and that should be the last statement in the method
+src/com/igate/eshop/entity/Product.java:7	Avoid unused imports such as 'javax.validation.constraints.Pattern'
+src/com/igate/eshop/entity/SubCategory.java:10	It is somewhat confusing to have a field name matching the declaring class name
+src/com/igate/eshop/test/EshopDAOTest.java:5	Avoid unused imports such as 'org.junit.Assert'
+src/com/igate/eshop/test/EshopDAOTest.java:50	JUnit assertions should include a message
+src/com/igate/eshop/test/EshopDAOTest.java:57	JUnit assertions should include a message

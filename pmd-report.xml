@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd version="4.1" timestamp="2013-12-21T11:55:26.275">
+<file name="src/com/igate/eshop/controller/EshopController.java">
+<violation beginline="67" endline="67" begincolumn="0" endcolumn="0" rule="OnlyOneReturn" ruleset="Controversial Rules" package="com.igate.eshop.controller" class="EshopController" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#OnlyOneReturn" priority="3">
+A method should have only one exit point, and that should be the last statement in the method
+</violation>
+<violation beginline="76" endline="76" begincolumn="0" endcolumn="0" rule="OnlyOneReturn" ruleset="Controversial Rules" package="com.igate.eshop.controller" class="EshopController" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#OnlyOneReturn" priority="3">
+A method should have only one exit point, and that should be the last statement in the method
+</violation>
+<violation beginline="123" endline="123" begincolumn="0" endcolumn="0" rule="OnlyOneReturn" ruleset="Controversial Rules" package="com.igate.eshop.controller" class="EshopController" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#OnlyOneReturn" priority="3">
+A method should have only one exit point, and that should be the last statement in the method
+</violation>
+<violation beginline="127" endline="127" begincolumn="0" endcolumn="0" rule="OnlyOneReturn" ruleset="Controversial Rules" package="com.igate.eshop.controller" class="EshopController" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#OnlyOneReturn" priority="3">
+A method should have only one exit point, and that should be the last statement in the method
+</violation>
+<violation beginline="134" endline="134" begincolumn="0" endcolumn="0" rule="OnlyOneReturn" ruleset="Controversial Rules" package="com.igate.eshop.controller" class="EshopController" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#OnlyOneReturn" priority="3">
+A method should have only one exit point, and that should be the last statement in the method
+</violation>
+</file>
+<file name="src/com/igate/eshop/entity/Product.java">
+<violation beginline="7" endline="7" begincolumn="0" endcolumn="0" rule="UnusedImports" ruleset="Type Resolution Rules" package="com.igate.eshop.entity" class="Product" externalInfoUrl="http://pmd.sourceforge.net/rules/typeresolution.html#UnusedImports" priority="4">
+Avoid unused imports such as 'javax.validation.constraints.Pattern'
+</violation>
+</file>
+<file name="src/com/igate/eshop/entity/SubCategory.java">
+<violation beginline="10" endline="10" begincolumn="0" endcolumn="0" rule="AvoidFieldNameMatchingTypeName" ruleset="Naming Rules" package="com.igate.eshop.entity" class="SubCategory" externalInfoUrl="http://pmd.sourceforge.net/rules/naming.html#AvoidFieldNameMatchingTypeName" priority="3">
+It is somewhat confusing to have a field name matching the declaring class name
+</violation>
+</file>
+<file name="src/com/igate/eshop/test/EshopDAOTest.java">
+<violation beginline="5" endline="5" begincolumn="0" endcolumn="0" rule="UnusedImports" ruleset="Type Resolution Rules" package="com.igate.eshop.test" class="EshopDAOTest" externalInfoUrl="http://pmd.sourceforge.net/rules/typeresolution.html#UnusedImports" priority="4">
+Avoid unused imports such as 'org.junit.Assert'
+</violation>
+<violation beginline="50" endline="50" begincolumn="0" endcolumn="0" rule="JUnitAssertionsShouldIncludeMessage" ruleset="JUnit Rules" package="com.igate.eshop.test" class="EshopDAOTest" externalInfoUrl="http://pmd.sourceforge.net/rules/junit.html#JUnitAssertionsShouldIncludeMessage" priority="3">
+JUnit assertions should include a message
+</violation>
+<violation beginline="57" endline="57" begincolumn="0" endcolumn="0" rule="JUnitAssertionsShouldIncludeMessage" ruleset="JUnit Rules" package="com.igate.eshop.test" class="EshopDAOTest" externalInfoUrl="http://pmd.sourceforge.net/rules/junit.html#JUnitAssertionsShouldIncludeMessage" priority="3">
+JUnit assertions should include a message
+</violation>
+</file>
+</pmd>
